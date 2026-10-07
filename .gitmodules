@@ -1,0 +1,4 @@
+[submodule "spectre-budgets"]
+	path = spectre-budgets
+	url = git@github.com:FluidNumerics/spectre-budgets.git
+	branch = main
